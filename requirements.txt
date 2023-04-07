@@ -1,0 +1,9 @@
+os
+imutils
+python
+tensorflow
+keras
+numpy
+cv2
+flask
+nanodb
