@@ -1,5 +1,5 @@
 gunicorn
 imutils
 flask
-opencv
+opencv-python-headless
 distributed
