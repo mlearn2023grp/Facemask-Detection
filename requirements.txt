@@ -1,4 +1,5 @@
 --upgrade pip
+gunicorn
 os
 imutils
 python
