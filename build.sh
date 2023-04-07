@@ -3,6 +3,5 @@
 set -o errexit
 
 pip install --upgrade pip
-pip install -r requirements.txt
 sudo apt-get install libyaml-dev
-
+pip install -r requirements.txt
