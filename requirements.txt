@@ -1,6 +1,5 @@
 gunicorn
 imutils
-python
 tensorflow
 keras
 cv2
