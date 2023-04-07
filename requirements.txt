@@ -3,4 +3,4 @@ imutils
 flask
 opencv-python-headless
 distributed
-tensorflow
+tensorflow.keras
