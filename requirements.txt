@@ -1,9 +1,4 @@
 gunicorn
 imutils
-tensorflow
-keras
 flask
-nanodb
-numpy
-pandas
 distributed
