@@ -1,5 +1,4 @@
 gunicorn
-os
 imutils
 python
 tensorflow
