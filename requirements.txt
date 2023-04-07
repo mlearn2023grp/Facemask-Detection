@@ -2,7 +2,6 @@ gunicorn
 imutils
 tensorflow
 keras
-cv2
 flask
 nanodb
 numpy
