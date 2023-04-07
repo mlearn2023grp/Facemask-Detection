@@ -26,13 +26,19 @@ body{
     max-width: 100%;
     height: auto;
 }
+
 .vid{
     text-align: center;
+    width=640px
+    height=480px
 }
 
 .bg{
+
     display: block;
+    margin: 0 auto;
 }
+
 
 
 
