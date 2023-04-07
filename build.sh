@@ -3,4 +3,5 @@
 set -o errexit
 
 pip install --upgrade pip
+pip install pyyaml
 pip install -r requirements.txt
