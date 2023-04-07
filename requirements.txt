@@ -5,3 +5,4 @@ opencv-python-headless
 distributed
 tensorflow
 keras
+tensorflow-cpu
